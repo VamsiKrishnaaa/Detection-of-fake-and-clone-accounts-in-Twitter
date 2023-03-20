@@ -1,0 +1,32 @@
+Detection of Fake and Clone accounts in Twitter using Classification and Distance Measure Algorithms
+
+
+Detection_of_FakeandCloneaccounts
+
+
+fake_cloneaccounts
+
+
+Clone, C4.5, Fake, Identity Theft, Online Social Networks, OSN
+
+
+
+uname
+dob
+gender
+address
+location
+emailid
+mobile_no
+names
+tweet_desc
+tweet_loc
+tweet_date
+score
+
+
+
+
+
+
+
